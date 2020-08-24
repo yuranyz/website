@@ -1,5 +1,5 @@
 # website
-Using visual studio IDE and codeigniter, we developed an web site for a technology devices store
+Using visual studio IDE, codeigniter, hmtl5, CSS and JavaScript, we developed a web site for a technology devices store
 
 Hellooo¡ 
 THis project was designed for a local store, by Melany Gaviria, Samuel Quintero and me (Yurany Zuluaga)
